@@ -5,7 +5,7 @@ using System.Runtime.CompilerServices;
 using System.Text;
 
 namespace GuessGame
-{
+{//сука
     public class Game
     {   
         public static void GameStart() 
